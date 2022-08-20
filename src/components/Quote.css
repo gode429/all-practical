@@ -1,0 +1,9 @@
+.quote {
+    display:inline-block;
+    height: 100px;
+    width:80%;
+    color: white;
+    background-color: darkcyan;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+}
